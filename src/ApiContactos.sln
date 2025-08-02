@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactosAPI", "ContactosAPI\ContactosAPI.csproj", "{A5259806-7AE6-4B2E-9897-A0D9E622EA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiContactos.Test", "ApiContactos.Test\ApiContactos.Test.csproj", "{B081BA75-8B84-4247-B444-EC94356233E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5259806-7AE6-4B2E-9897-A0D9E622EA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5259806-7AE6-4B2E-9897-A0D9E622EA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5259806-7AE6-4B2E-9897-A0D9E622EA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5259806-7AE6-4B2E-9897-A0D9E622EA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B081BA75-8B84-4247-B444-EC94356233E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B081BA75-8B84-4247-B444-EC94356233E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B081BA75-8B84-4247-B444-EC94356233E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B081BA75-8B84-4247-B444-EC94356233E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
